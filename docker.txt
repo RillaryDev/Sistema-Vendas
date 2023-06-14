@@ -1,3 +1,0 @@
-Docker é um gerenciador de containers.
-Esta linha foi inserida no Github
-Esta linha foi inserida na branch ramo1
